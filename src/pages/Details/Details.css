@@ -1,0 +1,11 @@
+.details {
+    width: 400px;
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+.details img {
+    width: 50%;
+    object-fit: contain;
+}
